@@ -23,9 +23,9 @@ når man deltager i D D C
 
 [Vers 1]
 På python hjemmesiden uden source
-Aner intet om URI, og må ik bruteforc'
+får et input felt, og må ik bruteforc'
 Det er klassisk WEB, hvad skal man gøre
-gennem tjeklister og gætværk det er sgu tø'r 
+gennem tjeklister og gætværk det er tør
 
 - Stemme -
 Cave, du ved jo godt, at det er kvalificerede gæt
